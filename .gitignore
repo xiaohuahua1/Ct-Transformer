@@ -1,0 +1,7 @@
+*.json
+*.o
+.vscode
+.vscode/launch.json
+.vscode/tasks.json
+_pycache_
+*.exe
